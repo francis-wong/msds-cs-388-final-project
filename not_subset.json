@@ -1,0 +1,50 @@
+{"premise":"A person on a horse jumps over a broken down airplane.","hypothesis":"A person is not at a diner, ordering an omelette.","label":1}
+{"premise":"A person on a horse jumps over a broken down airplane.","hypothesis":"A person is not outdoors, on a horse.","label":2}
+{"premise":"Children smiling and waving at camera","hypothesis":"There are no children present","label":2}
+{"premise":"Children smiling and waving at camera","hypothesis":"The kids are not frowning","label":0}
+{"premise":"A boy is jumping on skateboard in the middle of a red bridge.","hypothesis":"The boy is not skating down the sidewalk.","label":0}
+{"premise":"A boy is jumping on skateboard in the middle of a red bridge.","hypothesis":"The boy is not doing a skateboarding trick.","label":2}
+{"premise":"Two blond women are hugging one another.","hypothesis":"The women are not sleeping.","label":1}
+{"premise":"Two blond women are hugging one another.","hypothesis":"There are women not showing affection.","label":2}
+{"premise":"A few people in a restaurant setting, one of them is drinking orange juice.","hypothesis":"The people are not sitting at desks in school.","label":0}
+{"premise":"A few people in a restaurant setting, one of them is drinking orange juice.","hypothesis":"The diners are not at a restaurant.","label":2}
+{"premise":"An older man is drinking orange juice at a restaurant.","hypothesis":"A man is not drinking juice.","label":2}
+{"premise":"A man with blond-hair, and a brown shirt drinking out of a public water fountain.","hypothesis":"A blond man wearing a brown shirt is not reading a book on a bench in the park","label":0}
+{"premise":"A man with blond-hair, and a brown shirt drinking out of a public water fountain.","hypothesis":"A blond man is not drinking water from a fountain.","label":2}
+{"premise":"Two women who just had lunch hugging and saying goodbye.","hypothesis":"The friends are not scowling at each other over a full dinner table.","label":0}
+{"premise":"Two women, holding food carryout containers, hug.","hypothesis":"Two women do not hug each other.","label":2}
+{"premise":"A Little League team tries to catch a runner sliding into a base in an afternoon game.","hypothesis":"A team is not trying to tag a runner out.","label":2}
+{"premise":"A Little League team tries to catch a runner sliding into a base in an afternoon game.","hypothesis":"A team is not playing baseball on Saturn.","label":1}
+{"premise":"The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.","hypothesis":"A school is not hosting any event.","label":2}
+{"premise":"High fashion ladies wait outside a tram beside a crowd of people in the city.","hypothesis":"The women care what clothes they wear.","label":0}
+{"premise":"High fashion ladies wait outside a tram beside a crowd of people in the city.","hypothesis":"Women are not waiting by a tram.","label":2}
+{"premise":"A man, woman, and child enjoying themselves on a beach.","hypothesis":"A family of three is not at the beach.","label":2}
+{"premise":"A man, woman, and child enjoying themselves on a beach.","hypothesis":"A family of three is not at the mall shopping.","label":0}
+{"premise":"A couple playing with a little boy on the beach.","hypothesis":"A couple are not playing with a young child outside.","label":2}
+{"premise":"A couple play in the tide with their young son.","hypothesis":"The family is not sitting down for dinner.","label":0}
+{"premise":"A couple play in the tide with their young son.","hypothesis":"The family is not outside.","label":2}
+{"premise":"A man and a woman cross the street in front of a pizza and gyro restaurant.","hypothesis":"The people are not standing still on the curb.","label":0}
+{"premise":"A man and a woman cross the street in front of a pizza and gyro restaurant.","hypothesis":"Near a couple of restaurants, two people are not walking across the street.","label":2}
+{"premise":"A woman in a green jacket and hood over her head looking towards a valley.","hypothesis":"The woman is not naked.","label":0}
+{"premise":"A woman in a green jacket and hood over her head looking towards a valley.","hypothesis":"The woman is not wearing green.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"They are not protesting outside the capital.","label":0}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"A man is not advertising for a restaurant.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"The woman is not wearing black.","label":0}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"The woman is not wearing white.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"Not Olympic swimming.","label":0}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"A man and a woman are not eating together at John's Pizza and Gyro.","label":0}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"They are not walking with a sign.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"The man is not sitting down while he has a sign for John's Pizza and Gyro in his arms.","label":0}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"The woman and man are not outdoors.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"The adults are not both male and female.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two adults not swimming in water","label":0}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two adults not walking across a street.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two people not riding bicycles into a tunnel.","label":0}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two people not walking away from a restaurant across a street.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two adults not walking across the street.","label":0}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two adults not walking across a road","label":2}
+{"premise":"A woman wearing all white and eating, walks next to a man holding a briefcase.","hypothesis":"A married couple is not sleeping.","label":0}
+{"premise":"A woman wearing all white and eating, walks next to a man holding a briefcase.","hypothesis":"A female is not next to a man.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"The woman and man are not playing baseball together.","label":0}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"No one is eating.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"a woman eating a banana is not crossing a street","label":2} s

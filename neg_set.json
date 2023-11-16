@@ -1,0 +1,50 @@
+{"premise":"A person on a horse jumps over a broken down airplane.","hypothesis":"A person is indoors, on a horse.","label":2}
+{"premise":"Children smiling and waving at camera","hypothesis":"There are adults present","label":2}
+{"premise":"A boy is jumping on skateboard in the middle of a red bridge.","hypothesis":"The girl does a skateboarding trick.","label":2}
+{"premise":"Two blond women are hugging one another.","hypothesis":"There are men showing affection.","label":2}
+{"premise":"A few people in a restaurant setting, one of them is drinking orange juice.","hypothesis":"The diners are at a school.","label":2}
+{"premise":"An older man is drinking orange juice at a restaurant.","hypothesis":"A man is drinking water.","label":2}
+{"premise":"A man with blond-hair, and a brown shirt drinking out of a public water fountain.","hypothesis":"A blond man drinking water from a bottle.","label":2}
+{"premise":"Two women who just had lunch hugging and saying goodbye.","hypothesis":"There are three women in this picture.","label":2}
+{"premise":"Two women who just had lunch hugging and saying goodbye.","hypothesis":"There are two men in this picture.","label":2}
+{"premise":"Two women, holding food carryout containers, hug.","hypothesis":"Two women hug themselves.","label":2}
+{"premise":"A Little League team tries to catch a runner sliding into a base in an afternoon game.","hypothesis":"A team is trying to hit a home run.","label":2}
+{"premise":"The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.","hypothesis":"A school is hosting a party.","label":2}
+{"premise":"High fashion ladies wait outside a tram beside a crowd of people in the city.","hypothesis":"Women are waiting by a bus.","label":2}
+{"premise":"A man, woman, and child enjoying themselves on a beach.","hypothesis":"A family of three is at the mall.","label":2}
+{"premise":"People waiting to get on a train or just getting off.","hypothesis":"There are people just getting on a bus","label":2}
+{"premise":"A couple playing with a little boy on the beach.","hypothesis":"A couple are playing with a young child inside.","label":2}
+{"premise":"A couple play in the tide with their young son.","hypothesis":"The family is inside.","label":2}
+{"premise":"A man and a woman cross the street in front of a pizza and gyro restaurant.","hypothesis":"Near a couple of restaurants, two people walk across the railway.","label":2}
+{"premise":"A woman in a green jacket and hood over her head looking towards a valley.","hypothesis":"The woman is wearing red.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"A woman in grey.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"A man is advertising for a hospital.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"They are walking with a dog.","label":2}
+{"premise":"Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.","hypothesis":"The woman and man are indoors.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two adults walk across a freeway.","label":2}
+{"premise":"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.","hypothesis":"Two people walk away from a restaurant across a track.","label":2}
+{"premise":"A woman wearing all white and eating, walks next to a man holding a briefcase.","hypothesis":"A female is next to a woman.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"A woman eats a banana and walks across a street, and there is a woman trailing behind her.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"A person drinking.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"a woman eating a banana crosses a track","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"The woman is eating an apple.","label":2}
+{"premise":"A woman is walking across the street eating a banana, while a man is following with his briefcase.","hypothesis":"the woman is inside","label":2}
+{"premise":"A skier slides along a metal rail.","hypothesis":"A skier is near the road.","label":2}
+{"premise":"A person on skis on a rail at night.","hypothesis":"The person skates","label":2}
+{"premise":"A skier in electric green on the edge of a ramp made of metal bars.","hypothesis":"The brightly dressed skier slid down the waterway.","label":2}
+{"premise":"A yellow uniformed skier is performing a trick across a railed object.","hypothesis":"Somebody is engaging in summer sports.","label":2}
+{"premise":"A blond man is drinking from a public fountain.","hypothesis":"The man is drinking wine.","label":2}
+{"premise":"Wet brown dog swims towards camera.","hypothesis":"A dog is in the sand.","label":2}
+{"premise":"Closeup image of a dog swimming.","hypothesis":"A dog swims in a body of sand.","label":2}
+{"premise":"A big brown dog swims towards the camera.","hypothesis":"A dog swims towards the camcorder.","label":2}
+{"premise":"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.","hypothesis":"The man with the gray hat and pitchfork is directing the car.","label":2}
+{"premise":"A man is leading a Clydesdale up a hay road, within a Old Country.","hypothesis":"A man is walking with his horse up a highway.","label":2}
+{"premise":"A farmer fertilizing his garden with manure with a horse and wagon.","hypothesis":"The man is fertilizering his greenhouse.","label":2}
+{"premise":"A white horse is pulling a cart while a man stands and watches.","hypothesis":"An animal is walking inside.","label":2}
+{"premise":"A small group of church-goers watch a choir practice.","hypothesis":"A group watches a competition.","label":2}
+{"premise":"A dog drops a red disc on a beach.","hypothesis":"a dog drops a red disco","label":2}
+{"premise":"A man and a woman are walking on a street at the top of a hill.","hypothesis":"A man and woman walk on a boat.","label":2}
+{"premise":"An elderly man is drinking orange juice at a cafe.","hypothesis":"An old man is enjoying a beverage at a bank.","label":2}
+{"premise":"A couple holding hands walks down a street.","hypothesis":"People are holding hands and running.","label":2}
+{"premise":"A couple walk through a white brick town.","hypothesis":"People are walking indoors.","label":2}
+{"premise":"Children going home from school.","hypothesis":"The school children head school.","label":2}

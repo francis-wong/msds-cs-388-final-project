@@ -1,0 +1,50 @@
+{"premise":"People listening to a choir in a Catholic church.","hypothesis":"Choir singing in concert.","label":2}
+{"premise":"Bicyclists waiting at an intersection.","hypothesis":"The bicyclists are inside.","label":2}
+{"premise":"Bicyclists waiting at an intersection.","hypothesis":"The bicyclists ride through the crossing on their bikes.","label":0}
+{"premise":"Bicyclists waiting at an intersection.","hypothesis":"The bicyclists are alive.","label":0}
+{"premise":"People waiting at a light on bikes.","hypothesis":"People with lights.","label":2}
+{"premise":"People waiting at a light on bikes.","hypothesis":"People are on their lights.","label":2}
+{"premise":"People waiting at a light on bikes.","hypothesis":"Men and women outside on a street market.","label":2}
+{"premise":"People on bicycles waiting at an intersection.","hypothesis":"There are people on motorcycles.","label":2}
+{"premise":"A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.","hypothesis":"A man watches a woman.","label":2}
+{"premise":"A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.","hypothesis":"A man is standing on top of a car.","label":2}
+{"premise":"A boy is drinking out of a water fountain shaped like a woman.","hypothesis":"A male is getting a drink of wine.","label":2}
+{"premise":"three bikers stop in town.","hypothesis":"Bikers stop for water","label":2}
+{"premise":"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.","hypothesis":"A man is pulling on a glove.","label":2}
+{"premise":"A man with facial hair and a red and gray shirt tugging on a piece of rope.","hypothesis":"A man has facial scar.","label":2}
+{"premise":"A foreign family is walking along a dirt path next to the water.","hypothesis":"The family is admiring the dirt","label":2}
+{"premise":"A foreign family is walking along a dirt path next to the water.","hypothesis":"A family of dirt paths walks by the water.","label":2}
+{"premise":"A foreign family is walking along a dirt path next to the water.","hypothesis":"A family walks along a dirty water.","label":2}
+{"premise":"A man walking proudly down the street.","hypothesis":"A man is inside.","label":2}
+{"premise":"Four teenage boys are doing cannonballs into a swimming pool.","hypothesis":"A group of young men are splashing a lot of cannonballs.","label":2}
+{"premise":"Three men standing on grass by the water looking at something on a table.","hypothesis":"The three men are inside.","label":2}
+{"premise":"A Land Rover makes its way through a deep pond.","hypothesis":"A car drives through the land.","label":2}
+{"premise":"A man wearing black is playing an electric guitar at a concert.","hypothesis":"A man is playing the electric piano.","label":2}
+{"premise":"woman and child on trolley car labeled Powell and market and bay and taylor","hypothesis":"The woman is on a car.","label":2}
+{"premise":"Two ladies are reading through binders.","hypothesis":"Some women are binding.","label":2}
+{"premise":"A woman and a child holding on to the railing while on trolley.","hypothesis":"The people are holding onto the trolley.","label":2}
+{"premise":"Two children play outside in a field.","hypothesis":"Kids are playing indoors.","label":2}
+{"premise":"One man sits inside and plays the banjo, there are trees behind him outside.","hypothesis":"A male sitting outdoors.","label":2}
+{"premise":"Man in gold pants looking at the camera.","hypothesis":"Man looking at the pants.","label":2}
+{"premise":"A doctor checks the stomach of a toddler.","hypothesis":"The toddler is getting a check.","label":2}
+{"premise":"A couple strolls arm and arm and hand in hand down a city sidewalk.","hypothesis":"The couple is indoors.","label":2}
+{"premise":"A man stare at a passing couple while walking down the block.","hypothesis":"A man stares at a passing block.","label":2}
+{"premise":"Three small puppies bite and play together in the grass.","hypothesis":"Three puppies are playing inside.","label":2}
+{"premise":"A woman with a black jacket walks past an outdoor movie poster.","hypothesis":"A woman walking inside.","label":2}
+{"premise":"A mountain biker jumping a slope outdoors in a forest area.","hypothesis":"They are avoiding slopes.","label":2}
+{"premise":"Two older men in winter coats talking outside of a shop with a grassy lawn covered in a light coat of snow in front of it.","hypothesis":"Two old men in winter coats talk inside.","label":2}
+{"premise":"Two elderly men having a conversation, snow covered grass in the background.","hypothesis":"There are two men inside in this picture","label":2}
+{"premise":"Two men are standing outside and snow is on the ground.","hypothesis":"People are near ice.","label":2}
+{"premise":"A white bike is tied to a street sign.","hypothesis":"the bike is tied to a street","label":2}
+{"premise":"A white bike is leaning against a post.","hypothesis":"A bike it inside","label":2}
+{"premise":"People walking around in a big city.","hypothesis":"People are inside.","label":2}
+{"premise":"A barber waiting for customers.","hypothesis":"A barber is at home.","label":2}
+{"premise":"A man sitting in a barber shop.","hypothesis":"There is an individual waiting outdoors.","label":2}
+{"premise":"Firemen emerge from a subway station.","hypothesis":"Firemen walking inside","label":2}
+{"premise":"Three firefighters, the nearest firefighter is holding a helmet in his left hand.","hypothesis":"The firemen are gathered one is holding his hand.","label":2}
+{"premise":"A little boy underwater in a pool, holding a plastic dinosaur.","hypothesis":"Small boy in pool holds water.","label":2}
+{"premise":"A saddle bronc rider gets lifted out of the saddle, but keeps his grip during his ride.","hypothesis":"The man rides an elephant.","label":2}
+{"premise":"People are stretching on yoga mats.","hypothesis":"The people stretched on yoga balls.","label":2}
+{"premise":"Motorcyclist performing while two men watch.","hypothesis":"Men watching bicyclist.","label":2}
+{"premise":"The young man is waiting with others on the sidewalk.","hypothesis":"there is a group of people waiting inside","label":2}
+{"premise":"Two people pose for the camera.","hypothesis":"People pose for a video.","label":2}
